@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153645Z" creationid="Dick" creationdate="20210505T153645Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152631Z" creationid="Dick" creationdate="20210505T152631Z">
@@ -54,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153715Z" creationid="Dick" creationdate="20210505T153715Z">
+        <seg>Richting:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to delete the OMT Package?</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153411Z" creationid="Dick" creationdate="20210505T153411Z">
@@ -78,10 +94,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153804Z" creationid="Dick" creationdate="20210505T153729Z">
+        <seg>Neer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doxygen-commented files (Okapi)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152632Z" creationid="Dick" creationdate="20210505T152632Z">
         <seg>Doxygen-commented bestanden (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153927Z" creationid="Dick" creationdate="20210505T153914Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153657Z" creationid="Dick" creationdate="20210505T153657Z">
+        <seg>Fout</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +138,22 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152613Z" creationid="Dick" creationdate="20210505T152613Z">
         <seg>Filterinstellingen zijn momenteel &lt;b&gt;Projectspecifiek&lt;/b&gt;.&lt;br&gt;Daarom zal het bestand met de parameters, nadat u op "OK" hebt geklikt, worden gekopieerd naar deze locatie:&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153706Z" creationid="Dick" creationdate="20210505T153706Z">
+        <seg>Zoeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153955Z" creationid="Dick" creationdate="20210505T153955Z">
+        <seg>Wat zoeken:</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +176,8 @@
       <tuv lang="en">
         <seg>Goto Line</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20210505T153554Z" creationid="Dick" creationdate="20210505T153554Z">
-        <seg>[DG]Ga naar &amp;regel…</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153614Z" creationid="Dick" creationdate="20210505T153554Z">
+        <seg>Ga naar regel</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +230,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153624Z" creationid="Dick" creationdate="20210505T153624Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153621Z" creationid="Dick" creationdate="20210505T153621Z">
+        <seg>Regelnummer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153910Z" creationid="Dick" creationdate="20210505T153910Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152636Z" creationid="Dick" creationdate="20210505T152636Z">
         <seg>Markdown-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153856Z" creationid="Dick" creationdate="20210505T153856Z">
+        <seg>(Hoofd)lettergevoelig</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +306,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152649Z" creationid="Dick" creationdate="20210505T152649Z">
         <seg>Geen element in het bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153644Z" creationid="Dick" creationdate="20210505T153644Z">
+        <seg>O</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153642Z" creationid="Dick" creationdate="20210505T153642Z">
+        <seg>Voer een geheel getal in tussen 1 en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152618Z" creationid="Dick" creationdate="20210505T152618Z">
@@ -346,6 +450,30 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152639Z" creationid="Dick" creationdate="20210505T152639Z">
         <seg>Qt TS-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153909Z" creationid="Dick" creationdate="20210505T153909Z">
+        <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153709Z" creationid="Dick" creationdate="20210505T153709Z">
+        <seg>Vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155352Z" creationid="Dick" creationdate="20210505T155352Z">
+        <seg>Vervangen door:</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153754Z" creationid="Dick" creationdate="20210505T153754Z">
+        <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152626Z" creationid="Dick" creationdate="20210505T152626Z">
@@ -474,6 +610,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153452Z" creationid="Dick" creationdate="20210505T153452Z">
         <seg>OMT-pakket uitpakken…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153800Z" creationid="Dick" creationdate="20210505T153724Z">
+        <seg>Op</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,10 +646,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153930Z" creationid="Dick" creationdate="20210505T153911Z">
+        <seg>W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153904Z" creationid="Dick" creationdate="20210505T153904Z">
+        <seg>Gehele woord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152641Z" creationid="Dick" creationdate="20210505T152641Z">
         <seg>Wordfast Pro TXML-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153944Z" creationid="Dick" creationdate="20210505T153944Z">
+        <seg>Doorlopen</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +722,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152622Z" creationid="Dick" creationdate="20210505T152622Z">
         <seg>U moet een pad opgeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153948Z" creationid="Dick" creationdate="20210505T153948Z">
+        <seg>Z</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
