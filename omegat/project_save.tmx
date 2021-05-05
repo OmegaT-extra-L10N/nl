@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155433Z" creationid="Dick" creationdate="20210505T155433Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Another package with the same name already exists.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153249Z" creationid="Dick" creationdate="20210505T153249Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152631Z" creationid="Dick" creationdate="20210505T152631Z">
         <seg>Annuleren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155502Z" creationid="Dick" creationdate="20210505T155502Z">
+        <seg>Assistentie voor inhoud beschikbaar</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155430Z" creationid="Dick" creationdate="20210505T155430Z">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter Parameters Files</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152620Z" creationid="Dick" creationdate="20210505T152620Z">
@@ -190,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155358Z" creationid="Dick" creationdate="20210505T155358Z">
+        <seg>I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>InDesign IDML files (Okapi)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152634Z" creationid="Dick" creationdate="20210505T152634Z">
@@ -230,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155506Z" creationid="Dick" creationdate="20210505T155434Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>L</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153624Z" creationid="Dick" creationdate="20210505T153624Z">
@@ -250,6 +290,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153910Z" creationid="Dick" creationdate="20210505T153910Z">
         <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155426Z" creationid="Dick" creationdate="20210505T155426Z">
+        <seg>Alles markeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155401Z" creationid="Dick" creationdate="20210505T155401Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pack and delete project...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152909Z" creationid="Dick" creationdate="20210505T152909Z">
@@ -454,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155431Z" creationid="Dick" creationdate="20210505T155431Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153909Z" creationid="Dick" creationdate="20210505T153909Z">
@@ -466,6 +530,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153709Z" creationid="Dick" creationdate="20210505T153709Z">
         <seg>Vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T155417Z" creationid="Dick" creationdate="20210505T155417Z">
+        <seg>Alles vervangen</seg>
       </tuv>
     </tu>
     <tu>
