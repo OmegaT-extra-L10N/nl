@@ -6,10 +6,554 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153249Z" creationid="Dick" creationdate="20210505T153249Z">
+        <seg>Er bestaat al een ander pakket met dezelfde naam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152631Z" creationid="Dick" creationdate="20210505T152631Z">
+        <seg>Annuleren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152628Z" creationid="Dick" creationdate="20210505T152628Z">
+        <seg>Fout bij kopiëren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153122Z" creationid="Dick" creationdate="20210505T153122Z">
+        <seg>Nieuw project uit OMT-pakket maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153435Z" creationid="Dick" creationdate="20210505T153435Z">
+        <seg>Uitgepakte OMT-pakket verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153551Z" creationid="Dick" creationdate="20210505T153551Z">
+        <seg>Project verwijderen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153411Z" creationid="Dick" creationdate="20210505T153411Z">
+        <seg>Wilt u het OMT-pakket verwijderen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153214Z" creationid="Dick" creationdate="20210505T153214Z">
+        <seg>Wilt u die overschrijven door de vertaling uit het pakket ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153303Z" creationid="Dick" creationdate="20210505T153303Z">
+        <seg>Wilt u dit pakket overschrijven?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152632Z" creationid="Dick" creationdate="20210505T152632Z">
+        <seg>Doxygen-commented bestanden (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152620Z" creationid="Dick" creationdate="20210505T152620Z">
+        <seg>Bestanden met filterparameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152613Z" creationid="Dick" creationdate="20210505T152613Z">
+        <seg>Filterinstellingen zijn momenteel &lt;b&gt;Projectspecifiek&lt;/b&gt;.&lt;br&gt;Daarom zal het bestand met de parameters, nadat u op "OK" hebt geklikt, worden gekopieerd naar deze locatie:&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152715Z" creationid="Dick" creationdate="20210505T152715Z">
+        <seg>Fuzzy overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152711Z" creationid="Dick" creationdate="20210505T152711Z">
+        <seg>Problemen met Fuzzy overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153554Z" creationid="Dick" creationdate="20210505T153554Z">
+        <seg>[DG]Ga naar &amp;regel…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152633Z" creationid="Dick" creationdate="20210505T152633Z">
+        <seg>HTML-bestanden (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152634Z" creationid="Dick" creationdate="20210505T152634Z">
+        <seg>InDesign IDML-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152616Z" creationid="Dick" creationdate="20210505T152616Z">
+        <seg>De naam van de vertaaleenheid opnemen in opmerkingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153029Z" creationid="Dick" creationdate="20210505T153029Z">
+        <seg>Ongeldig OMT-pakket, bestand "omegat.project" ontbreekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152627Z" creationid="Dick" creationdate="20210505T152627Z">
+        <seg>Is er een project geopend?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152635Z" creationid="Dick" creationdate="20210505T152635Z">
+        <seg>JSON-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152636Z" creationid="Dick" creationdate="20210505T152636Z">
+        <seg>Markdown-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152621Z" creationid="Dick" creationdate="20210505T152621Z">
+        <seg>Ontbrekend pad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152648Z" creationid="Dick" creationdate="20210505T152648Z">
+        <seg>Geen element &lt;xliff&gt; gevonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152623Z" creationid="Dick" creationdate="20210505T152623Z">
+        <seg>Geen bestand met parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152625Z" creationid="Dick" creationdate="20210505T152625Z">
+        <seg>Geen projectmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152649Z" creationid="Dick" creationdate="20210505T152649Z">
+        <seg>Geen element in het bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152630Z" creationid="Dick" creationdate="20210505T152630Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153333Z" creationid="Dick" creationdate="20210505T153333Z">
+        <seg>OMT-pakket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153007Z" creationid="Dick" creationdate="20210505T153007Z">
+        <seg>OMT-pakketbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153327Z" creationid="Dick" creationdate="20210505T153327Z">
+        <seg>OMT-pakket met succes gemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153504Z" creationid="Dick" creationdate="20210505T153504Z">
+        <seg>OMT-pakket geïmporteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153537Z" creationid="Dick" creationdate="20210505T153537Z">
+        <seg>OMT-project ingepakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20210505T152013Z" creationid="Dick" creationdate="20210505T152013Z">
-        <seg>Okapi Filter Options</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152607Z" creationid="Dick" creationdate="20210505T152013Z">
+        <seg>Opties Okapi-filters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152610Z" creationid="Dick" creationdate="20210505T152610Z">
+        <seg>Opties Okapi XLIFF-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152637Z" creationid="Dick" creationdate="20210505T152637Z">
+        <seg>OpenXML-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153315Z" creationid="Dick" creationdate="20210505T153315Z">
+        <seg>OMT-pakket overschrijven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153231Z" creationid="Dick" creationdate="20210505T153231Z">
+        <seg>Bestand project_save.tmx overschrijven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152909Z" creationid="Dick" creationdate="20210505T152909Z">
+        <seg>Project inpakken en verwijderen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152849Z" creationid="Dick" creationdate="20210505T152849Z">
+        <seg>Project inpakken als bestand voor OMT…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153525Z" creationid="Dick" creationdate="20210505T153525Z">
+        <seg>OMT-project inpakken…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152618Z" creationid="Dick" creationdate="20210505T152618Z">
+        <seg>Items met state='final' beveiligen (indien niet ingesteld: zij kunnen niet worden bewerkt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152639Z" creationid="Dick" creationdate="20210505T152639Z">
+        <seg>Qt TS-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152638Z" creationid="Dick" creationdate="20210505T152638Z">
+        <seg>SDL-XLIFF-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152757Z" creationid="Dick" creationdate="20210505T152757Z">
+        <seg>Segment begint met voorvoegsel voor een fuzzy overeenkomst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152619Z" creationid="Dick" creationdate="20210505T152619Z">
+        <seg>Een bestand met filterparameters selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153000Z" creationid="Dick" creationdate="20210505T153000Z">
+        <seg>Locatie en naam van het OMT-pakket selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152929Z" creationid="Dick" creationdate="20210505T152929Z">
+        <seg>Het te importeren pakket van OMT selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152617Z" creationid="Dick" creationdate="20210505T152617Z">
+        <seg>Items met translate='no' weergeven en beveiligen (indien niet ingesteld: zij worden niet uitgenomen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152629Z" creationid="Dick" creationdate="20210505T152629Z">
+        <seg>Sorry, er trad een probleem op bij het kopiëren van het bestand met parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152640Z" creationid="Dick" creationdate="20210505T152640Z">
+        <seg>TagEditor TTX-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153356Z" creationid="Dick" creationdate="20210505T153356Z">
+        <seg>Het pakket is met succes uitgepakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152624Z" creationid="Dick" creationdate="20210505T152624Z">
+        <seg>Het bestand met parameters bestaat niet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153145Z" creationid="Dick" creationdate="20210505T153145Z">
+        <seg>Het project heeft al een vertaling waaraan is begonnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152647Z" creationid="Dick" creationdate="20210505T152647Z">
+        <seg>Het attribuut voor de versie ontbreekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152642Z" creationid="Dick" creationdate="20210505T152642Z">
+        <seg>Transifex project-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152626Z" creationid="Dick" creationdate="20210505T152626Z">
+        <seg>Kan de projectmap niet bepalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152824Z" creationid="Dick" creationdate="20210505T152824Z">
+        <seg>Project uitpakken uit OMT-bestand…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153452Z" creationid="Dick" creationdate="20210505T153452Z">
+        <seg>OMT-pakket uitpakken…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T153100Z" creationid="Dick" creationdate="20210505T153100Z">
+        <seg>Huidig project bijwerken met inhoud van OMT-pakket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152614Z" creationid="Dick" creationdate="20210505T152614Z">
+        <seg>De standaard filterinstellingen gebruiken (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152615Z" creationid="Dick" creationdate="20210505T152615Z">
+        <seg>Het volgende bestand met filterparameters gebruiken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152641Z" creationid="Dick" creationdate="20210505T152641Z">
+        <seg>Wordfast Pro TXML-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152644Z" creationid="Dick" creationdate="20210505T152644Z">
+        <seg>XLIFF-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152645Z" creationid="Dick" creationdate="20210505T152645Z">
+        <seg>XLIFF-2-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152650Z" creationid="Dick" creationdate="20210505T152650Z">
+        <seg>XML-bestanden  (Okapi - XML-filter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152651Z" creationid="Dick" creationdate="20210505T152651Z">
+        <seg>XML-bestanden  (Okapi - XMLstroom-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152653Z" creationid="Dick" creationdate="20210505T152653Z">
+        <seg>YAML-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210505T152622Z" creationid="Dick" creationdate="20210505T152622Z">
+        <seg>U moet een pad opgeven.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
