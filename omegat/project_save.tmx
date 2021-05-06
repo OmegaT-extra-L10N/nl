@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093909Z" creationid="Dick" creationdate="20210506T093909Z">
+        <seg>Kan niet Ongedaan maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152631Z" creationid="Dick" creationdate="20210505T152631Z">
@@ -38,10 +46,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093106Z" creationid="Dick" creationdate="20210506T093106Z">
+        <seg>Tekens:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093447Z" creationid="Dick" creationdate="20210506T093447Z">
+        <seg>Alle opmerkingen samenvouwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093416Z" creationid="Dick" creationdate="20210506T093416Z">
+        <seg>Alles samenvouwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093508Z" creationid="Dick" creationdate="20210506T093508Z">
+        <seg>Vouwt alle opmerkingen samen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093431Z" creationid="Dick" creationdate="20210506T093431Z">
+        <seg>Vouwt alles samen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T155502Z" creationid="Dick" creationdate="20210505T155502Z">
         <seg>Assistentie voor inhoud beschikbaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093706Z" creationid="Dick" creationdate="20210506T093619Z">
+        <seg>Kopieert de huidige tekst naar het prikbord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093556Z" creationid="Dick" creationdate="20210506T093556Z">
+        <seg>Kopiëren</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +122,30 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153122Z" creationid="Dick" creationdate="20210505T153122Z">
         <seg>Nieuw project uit OMT-pakket maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093626Z" creationid="Dick" creationdate="20210506T093626Z">
+        <seg>Knippen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093712Z" creationid="Dick" creationdate="20210506T093712Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093725Z" creationid="Dick" creationdate="20210506T093725Z">
+        <seg>Verwijderen</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093125Z" creationid="Dick" creationdate="20210506T093125Z">
+        <seg>Codering:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153657Z" creationid="Dick" creationdate="20210505T153657Z">
@@ -142,10 +238,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093527Z" creationid="Dick" creationdate="20210506T093527Z">
+        <seg>Alles uitvouwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093549Z" creationid="Dick" creationdate="20210506T093549Z">
+        <seg>Vouwt alles uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>F</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T155430Z" creationid="Dick" creationdate="20210505T155430Z">
         <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093139Z" creationid="Dick" creationdate="20210506T093139Z">
+        <seg>Bestandsgrootte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +294,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093016Z" creationid="Dick" creationdate="20210506T093016Z">
+        <seg>Vorige zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find what:</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20210505T153955Z" creationid="Dick" creationdate="20210505T153955Z">
-        <seg>Wat zoeken:</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T092936Z" creationid="Dick" creationdate="20210505T153955Z">
+        <seg>Zoeken naar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T092953Z" creationid="Dick" creationdate="20210506T092953Z">
+        <seg>Zoeken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093305Z" creationid="Dick" creationdate="20210506T093305Z">
+        <seg>Samenvouwen</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +422,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093148Z" creationid="Dick" creationdate="20210506T093148Z">
+        <seg>Laatst aangepast:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153621Z" creationid="Dick" creationdate="20210505T153621Z">
         <seg>Regelnummer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093121Z" creationid="Dick" creationdate="20210506T093121Z">
+        <seg>Regeleinde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093220Z" creationid="Dick" creationdate="20210506T093220Z">
+        <seg>Regel: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093100Z" creationid="Dick" creationdate="20210506T093100Z">
+        <seg>Regels:</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +498,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152621Z" creationid="Dick" creationdate="20210505T152621Z">
         <seg>Ontbrekend pad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093239Z" creationid="Dick" creationdate="20210506T093239Z">
+        <seg>Meerdere markeringen op deze regel:</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093250Z" creationid="Dick" creationdate="20210506T093250Z">
+        <seg>Aantal keer "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152607Z" creationid="Dick" creationdate="20210505T152013Z">
@@ -426,6 +618,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152610Z" creationid="Dick" creationdate="20210505T152610Z">
         <seg>Opties Okapi XLIFF-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093155Z" creationid="Dick" creationdate="20210506T093155Z">
+        <seg>Oude Macintosh (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,10 +686,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093742Z" creationid="Dick" creationdate="20210506T093742Z">
+        <seg>Plakken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093054Z" creationid="Dick" creationdate="20210506T093054Z">
+        <seg>Pad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093818Z" creationid="Dick" creationdate="20210506T093818Z">
+        <seg>Plakt tekst vanaf het prikbord op de huidige locatie in het tekstbestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153642Z" creationid="Dick" creationdate="20210505T153642Z">
         <seg>Voer een geheel getal in tussen 1 en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093259Z" creationid="Dick" creationdate="20210506T093259Z">
+        <seg>Druk op 'F2' voor focus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093051Z" creationid="Dick" creationdate="20210506T093051Z">
+        <seg>Eigenschappen: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +766,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093659Z" creationid="Dick" creationdate="20210506T093659Z">
+        <seg>Verwijdert de huidige selectie en plaatst die op het prikbord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093738Z" creationid="Dick" creationdate="20210506T093738Z">
+        <seg>Verwijdert de huidige selectie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153709Z" creationid="Dick" creationdate="20210505T153709Z">
@@ -550,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093039Z" creationid="Dick" creationdate="20210506T093039Z">
+        <seg>Vervangen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152638Z" creationid="Dick" creationdate="20210505T152638Z">
@@ -562,6 +826,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152757Z" creationid="Dick" creationdate="20210505T152757Z">
         <seg>Segment begint met voorvoegsel voor een fuzzy overeenkomst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093826Z" creationid="Dick" creationdate="20210506T093826Z">
+        <seg>Alles selecteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +862,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093844Z" creationid="Dick" creationdate="20210506T093844Z">
+        <seg>Selecteert alle tekst in het huidige tekstdocument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093033Z" creationid="Dick" creationdate="20210506T093033Z">
+        <seg>Shift+Enter vervangt achterwaarts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093003Z" creationid="Dick" creationdate="20210506T093003Z">
+        <seg>Shift+Enter zoekt achterwaarts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152617Z" creationid="Dick" creationdate="20210505T152617Z">
@@ -606,10 +902,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093209Z" creationid="Dick" creationdate="20210506T093209Z">
+        <seg>Standaard systeem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093622Z" creationid="Dick" creationdate="20210506T093622Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152640Z" creationid="Dick" creationdate="20210505T152640Z">
         <seg>TagEditor TTX-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093938Z" creationid="Dick" creationdate="20210506T093938Z">
+        <seg>De laatste actie ongedaan maken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +966,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093330Z" creationid="Dick" creationdate="20210506T093330Z">
+        <seg>Huidig samengevouwen schakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093354Z" creationid="Dick" creationdate="20210506T093354Z">
+        <seg>Schakelt samenvouwen op de positie van de caret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Transifex project files (Okapi)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152642Z" creationid="Dick" creationdate="20210505T152642Z">
@@ -656,8 +992,16 @@
       <tuv lang="en">
         <seg>U</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20210505T153754Z" creationid="Dick" creationdate="20210505T153754Z">
-        <seg>O</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093852Z" creationid="Dick" creationdate="20210505T153754Z">
+        <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093157Z" creationid="Dick" creationdate="20210506T093157Z">
+        <seg>UNIX (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +1010,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152626Z" creationid="Dick" creationdate="20210505T152626Z">
         <seg>Kan de projectmap niet bepalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093900Z" creationid="Dick" creationdate="20210506T093900Z">
+        <seg>Ongedaan maken</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,10 +1086,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093158Z" creationid="Dick" creationdate="20210506T093158Z">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T152641Z" creationid="Dick" creationdate="20210505T152641Z">
         <seg>Wordfast Pro TXML-bestanden  (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093113Z" creationid="Dick" creationdate="20210506T093113Z">
+        <seg>Woorden:</seg>
       </tuv>
     </tu>
     <tu>
