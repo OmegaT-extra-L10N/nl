@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T094007Z" creationid="Dick" creationdate="20210506T094007Z">
+        <seg>Kan niet Opnieuw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can't Undo</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210506T093909Z" creationid="Dick" creationdate="20210506T093909Z">
@@ -50,6 +58,22 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210506T093106Z" creationid="Dick" creationdate="20210506T093106Z">
         <seg>Tekens:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T094127Z" creationid="Dick" creationdate="20210506T094127Z">
+        <seg>Kies welke tekst, vanuit de recent op het prikbord geplaatste tekst, moet worden geplakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clipboard History:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T094137Z" creationid="Dick" creationdate="20210506T094137Z">
+        <seg>Geschiedenis prikbord:</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +370,14 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T153614Z" creationid="Dick" creationdate="20210505T153554Z">
         <seg>Ga naar regel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T094036Z" creationid="Dick" creationdate="20210506T094036Z">
+        <seg>H</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T094051Z" creationid="Dick" creationdate="20210506T094051Z">
+        <seg>Plakken uit geschiedenis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210506T093054Z" creationid="Dick" creationdate="20210506T093054Z">
@@ -754,6 +794,22 @@
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210505T155431Z" creationid="Dick" creationdate="20210505T155431Z">
         <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T094031Z" creationid="Dick" creationdate="20210506T094031Z">
+        <seg>De laatste ongedaan gemaakte actie opnieuw uitvoeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210506T093954Z" creationid="Dick" creationdate="20210506T093954Z">
+        <seg>Opnieuw</seg>
       </tuv>
     </tu>
     <tu>
